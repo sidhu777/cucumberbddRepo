@@ -21,6 +21,7 @@ public class MyFirstStepdef {
 		driver.get("https://www.facebook.com/");
 		 driver.manage().window().maximize();
 		 System.out.println("opening the url");
+		 System.out.println("make my trip -------------------------------------");
 		}
 			
 	
